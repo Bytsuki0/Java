@@ -1,7 +1,7 @@
 public class PrimosMultithread {
 
     public static int n = 1000000;
-    public static int numThreads = 1;
+    public static int numThreads = 6;
     public static int quantidade_primos = 0;
 
     // Objeto para sincronização
